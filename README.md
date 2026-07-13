@@ -1,13 +1,15 @@
 # Maxim
 
-Student developer working across web, mobile, and applied AI — from computer vision to LLM-backed tools. I build most projects end to end: backend, frontend, and product design.
+Student developer working across web, mobile, and applied AI, from computer vision to LLM-backed tools. I build most projects end to end: backend, frontend, and product design.
 
-I also co-run [**Balmuzdaq Studio**](https://github.com/BALMUZDAQ-STUDIO), where I take on hackathons and freelance client work with a small team.
+I also co-run [**Balmuzdaq Studio**](https://github.com/BALMUZDAQ-STUDIO), where I take on hackathons and freelance client work with the team.
+
+Btw, I love computational modeling!
 
 ## Featured Projects
 
 - **[KOREM](https://github.com/maksimkaprosuperhacker/Korem)** — assistive city-navigation app for visually impaired users (computer vision, OCR, voice output). Finalist, National Innovation Project Competition "Smart City."
-- **[AI-Study](https://github.com/maksimkaprosuperhacker/AI-Study)** + **[Srver_Ai_Study](https://github.com/maksimkaprosuperhacker/Srver_Ai_Study)** — turns uploaded course material into quizzes, summaries, and glossaries via GPT. 1st place, City Project Competition.
+- **[AI-Study](https://github.com/maksimkaprosuperhacker/AI-Study)** + **[Srver_Ai_Study](https://github.com/maksimkaprosuperhacker/Srver_Ai_Study)** — turns uploaded course material into quizzes, summaries, and glossaries via GPT. 1st place, Almaty City Project Competition.
 - **[Terricon Hack](https://github.com/maksimkaprosuperhacker/Terricon_hack)** — library companion app (event registration, book reminders, gamification). 1st place, HackTheBookshelf hackathon.
 - **[SIMC 2024 Endeavour Challenge](https://github.com/maksimkaprosuperhacker/Singapore-International-Mathematical-and-Computational-Challenge-2024-Endeavor-Challenge)** — computational pattern-analysis solutions for the Singapore International Mathematical and Computational Challenge.
 
